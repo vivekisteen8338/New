@@ -14,7 +14,7 @@ class DashBoard extends Component {
         var time = new Date().getTime();
         return(
             <div className="timer-container">
-             <img src="https://i.ibb.co/GCwsMvD/final.png" alt="countttt" />
+             <img src="https://i.ibb.co/89XhTSd/aaa.png" alt="countttt" />
                 <div className="dashboard-container">
                     <div className="crackers">
                         <div className="before"></div>
